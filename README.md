@@ -27,7 +27,7 @@ lab10_php_oop/
 
 ---
 
-## 1️⃣ Praktikum: Class & Object (mobil.php)
+## Praktikum: Class & Object (mobil.php)
 
 Pada bagian ini dibuat class sederhana bernama **Mobil**, yang memiliki atribut dan method:
 
@@ -41,7 +41,7 @@ Program kemudian membuat dua objek mobil dan menampilkan perubahan warnanya.
 
 ---
 
-## 2️⃣ Class Library (form.php)
+## Class Library (form.php)
 
 File **form.php** berisi class **Form** yang digunakan untuk membuat form input secara dinamis.
 Class ini memiliki fitur:
@@ -98,7 +98,7 @@ Ini merupakan implementasi konsep **modularisasi**, di mana class dibuat terpisa
 ---
 
 
- ## Implementasi Form (form_input.php)
+## Implementasi Form (form_input.php)
     
 File **form_input.php** melakukan:
     
@@ -112,7 +112,7 @@ File **form_input.php** melakukan:
 
 ---
 
-## 4️⃣ Class Database (database.php)
+## Class Database (database.php)
 
 File ini menunjukkan contoh bagaimana melakukan modularisasi untuk database.
 Fungsinya:
@@ -213,7 +213,7 @@ Fungsinya:
   
 ---
 
-## 5️⃣ config.php
+## config.php
 
 Berisi konfigurasi database:
 
